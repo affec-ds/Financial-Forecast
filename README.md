@@ -25,7 +25,11 @@ Visualización de insights: Importancia de variables, predicción de ventas y di
 
 📉 Resultados Clave
 
-📌 Modelo con mejor rendimiento: Random Forest📌 Variables más influyentes: Número de clientes y ventas por cliente📌 Impacto de promociones: Aumento estimado del 15-20% en ventas
+📌 Modelo con mejor rendimiento: Random Forest
+
+📌 Variables más influyentes: Número de clientes y ventas por cliente
+
+📌 Impacto de promociones: Aumento estimado del 15-20% en ventas
 
 
 🛠 Tecnologías Utilizadas
