@@ -62,12 +62,14 @@ Este proyecto fue desarrollado íntegramente en Jupyter Notebook.
    git clone https://github.com/affec-ds/prediccion-ventas-retail.git
 
 3. Navega a la carpeta del proyecto:
+   ```bash
    cd prediccion-ventas-retail
 
-4. Abre el notebook:
+5. Abre el notebook:
+   ```bash
    jupyter notebook
    
-5. Ejecuta el archivo Financial Forecast Project.ipynb paso a paso para revisar el análisis, modelo y visualizaciones.
+7. Ejecuta el archivo Financial Forecast Project.ipynb paso a paso para revisar el análisis, modelo y visualizaciones.
    
 ---
 
