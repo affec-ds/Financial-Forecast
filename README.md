@@ -55,4 +55,3 @@ Seaborn, Matplotlib
 
 💼[GitHub](https://github.com/affec-ds)
 
-### 🚀 Sígueme para más proyectos de Data Science!
