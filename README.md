@@ -1,7 +1,7 @@
 # 📊 Predicción de Ventas en Retail
 
-# Autor: Affectus Jaureguizar
-# Fecha: 20 de Marzo, 2025
+### Autor: Affectus Jaureguizar
+### Fecha: 20 de Marzo, 2025
 
 ---
 
