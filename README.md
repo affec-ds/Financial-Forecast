@@ -1,7 +1,7 @@
 # 📊 Predicción de Ventas en Retail
 
 ### Autor: Affectus Jaureguizar
-### Fecha: 20 de Marzo, 2025
+### Fecha: 19 de Marzo, 2025
 
 ---
 
@@ -47,6 +47,28 @@ Pandas, NumPy, Scikit-learn
 
 Seaborn, Matplotlib
 
+---
+
+## ▶️ Cómo ejecutar este proyecto
+
+Este proyecto fue desarrollado íntegramente en Jupyter Notebook.
+
+### Pasos para abrirlo localmente:
+
+1. Asegúrate de tener instalado **Python 3** y **Jupyter Notebook** (puedes usar Anaconda para facilitar la instalación).
+
+2. Clona este repositorio o descarga los archivos manualmente:
+   ```bash
+   git clone https://github.com/affec-ds/prediccion-ventas-retail.git
+
+3. Navega a la carpeta del proyecto:
+   cd prediccion-ventas-retail
+
+4. Abre el notebook:
+   jupyter notebook
+   
+5. Ejecuta el archivo Financial Forecast Project.ipynb paso a paso para revisar el análisis, modelo y visualizaciones.
+   
 ---
 
 ## 📩 Contacto
